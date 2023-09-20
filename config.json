@@ -1,6 +1,7 @@
 {
     "STATUS": true,
     "MSG": "",
+    "Version": "1.0.0",
     "APP_SETTINGS": {
       "NUMBER_OF_INTERSTITIAL_ADS": "2",
       "FACEBOOK_GOOGLE_INTER_ADDS": "3",
