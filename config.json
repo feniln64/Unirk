@@ -1,0 +1,91 @@
+{
+    "STATUS": true,
+    "MSG": "",
+    "APP_SETTINGS": {
+      "NUMBER_OF_INTERSTITIAL_ADS": "2",
+      "FACEBOOK_GOOGLE_INTER_ADDS": "3",
+      "FACEBOOK_GOOGLE_NATIVE_AND_BANNER": "3"
+    },
+    "PLACEMENT": {
+      "Admob": {
+        "AppID": "ca-app-pub-3940256099942544~3347511713",
+        "BANNER_ID": "/21753324030,22583338698/livesports.matchscore.sports_Banner",
+        "INTERSTITIAL_ID": "/21753324030,22583338698/livesports.matchscore.sports_Interstitial",
+        "NATIVE": "/21753324030,22583338698/livesports.matchscore.sports_Native",
+        "APP_OPEN": "/21753324030,22583338698/livesports.matchscore.sports_AppOpen",
+        "REWARD_ID": "ca-app-pub-3940256099942544/5224354917"
+      },
+      "Facebookaudiencenetwork": {
+        "FACEBOOK_INTERTITIAL_PLACEMENT_ID_1": "240722468710203_240723008710149",
+        "FACEBOOK_INTERTITIAL_PLACEMENT_ID_2": "240722468710203_288511930597923",
+        "FACEBOOK_INTERTITIAL_PLACEMENT_ID_3": "240722468710203_288511997264583",
+        "FACEBOOK_INTERTITIAL_PLACEMENT_ID_4": "240722468710203_288512053931244",
+        "FACEBOOK_INTERTITIAL_PLACEMENT_ID_5": "240722468710203_288512183931231",
+        "FACEBOOK_NATIVE_BANNER_PLACEMENT_ID_1": "240722468710203_288513900597726",
+        "FACEBOOK_NATIVE_BANNER_PLACEMENT_ID_2": "240722468710203_288513773931072",
+        "FACEBOOK_NATIVE_BANNER_PLACEMENT_ID_3": "240722468710203_288513467264436",
+        "FACEBOOK_NATIVE_BANNER_PLACEMENT_ID_4": "240722468710203_288513357264447",
+        "FACEBOOK_NATIVE_BANNER_PLACEMENT_ID_5": "240722468710203_240725145376602",
+        "FACEBOOK_BANNER_PLACEMENT_ID": "YOUR_PLACEMENT_ID"
+      }
+    },
+    "Game": {
+      "isActive": "true",
+      "game_link": [
+        {
+          "Name": "Cowboy",
+          "link": "https://www.playfusion.org/app/games/one_hand_cowboy/index.html",
+          "image": "https://drive.google.com/file/d/1udkzlaWRc2N6SpBT_0wPsrGj9tQBjQtF/view?usp=sharing"
+        },
+        {
+          "Name": "Zombie",
+          "link": "https://demonisblack.com/code/2023/zombieattack/game/",
+          "image": "https://drive.google.com/file/d/15SKhtm4bcYg4K4cTUr4EfCysuCvMuNmz/view?usp=sharing"
+        },
+        {
+          "Name": "Monster",
+          "link": "https://demonisblack.com/code/2022/feedmonster/game/",
+          "image": "https://drive.google.com/file/d/1vst1YWtGRhF6W66stA5mqHKx2GQRz4Ek/view?usp=sharing"
+        },
+        {
+          "Name": "TypeRacer",
+          "link": "https://demonisblack.com/code/2023/typeracer/game/",
+          "image": "https://drive.google.com/file/d/1fk0J7eOfzs83rB1nRyhkaJuvgFyTRzPO/view?usp=sharing"
+        },
+        {
+          "Name": "CardAttack",
+          "link": "https://demonisblack.com/code/2023/cardattack/game/",
+          "image": "https://drive.google.com/file/d/1HsCH-dYl1kd6sfa-oyoSoxBoJONxEf0-/view?usp=sharing"
+        },
+        {
+          "Name": "Mergedice",
+          "link": "https://demonisblack.com/code/2023/mergedice/game/",
+          "image": "https://drive.google.com/file/d/1RATUh5qlWYm3VIZ2UkTEjgBItZkg-Bnn/view?usp=sharing"
+        },
+        {
+          "Name": "Fithole",
+          "link": "https://demonisblack.com/code/2023/fithole/game/",
+          "image": "https://drive.google.com/file/d/1SA5u3WSNCw1dOwXRQR4OLmmM90JRiNjy/view?usp=sharing"
+        },
+        {
+          "Name": "Zombie",
+          "link": "https://demonisblack.com/code/2023/zombieattack/game/",
+          "image": "https://drive.google.com/file/d/15SKhtm4bcYg4K4cTUr4EfCysuCvMuNmz/view?usp=sharing"
+        }
+      ]
+    },
+    "AllSportGame": {
+      "sport_game_link": []
+    },
+    "liveMatch": {
+      "islive": "true",
+      "sport_game_link": {
+        "Livelink1": "https://live.hungama.com/linear/pop-pataka/playlist.m3u8",
+        "Livelink2": "https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
+        "Livelink3": "https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
+        "Livelink4": "https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8",
+        "Livelink5": "https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
+        "Livelink6": "https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8"
+      }
+    }
+  }
